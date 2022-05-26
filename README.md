@@ -9,4 +9,4 @@ A single page website created as part of The Odin Project curriculum.
 
 ---
 ### Screenshots
-![Screenshot](https://raw.githubusercontent.com/TechnoOakGames/Marble_Run/main/Marble_Run_Gameplay_Screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/Deren-Web-Developement-Projects/Odin-Landing-Page/main/LandingPage.png)
