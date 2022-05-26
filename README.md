@@ -1,7 +1,9 @@
 # The Odin Project - Landing Page project
 
 ## Description
-A single page website created as part of The Odin Project curriculum.
+- A single page website created as part of The Odin Project curriculum.
+- Project is an original creation following submission requirements.
+- Includes mobile view support.
 
 ## Technologies & Languages
 - HTML
