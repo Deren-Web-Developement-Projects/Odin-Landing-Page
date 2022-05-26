@@ -8,5 +8,4 @@ A single page website created as part of The Odin Project curriculum.
 - CSS
 
 ---
-### Screenshots
 ![Screenshot](https://github.com/Deren-Web-Developement-Projects/Odin-Landing-Page/blob/76fac5eed5172f0792ed56ecaeed766f811ae01e/LandingPage.png)
